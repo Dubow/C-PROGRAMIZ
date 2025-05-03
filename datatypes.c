@@ -39,6 +39,35 @@ int main() {
     // int remainder = number % 3;
     // printf("The remainder is %d\n", remainder);
 
+    // if else statement
+    // int age;
+    // printf("Please enter yor age: ");
+    // scanf("%d", &age);
+    // if (age < 18){
+    //     printf("you are a minor\n");
+    // }
+    // else{
+    //     printf("You are an adult");
+    // }
+
+    // while loop
+    // int number;
+    // printf("Enter your numer: ");
+    // scanf("%d", &number);
+    // int count = 1;
+    // while(count <= 10){
+    //     int product = number * count;
+    //     printf("%d * %d = %d\n", number,count,product);
+    //     count++;
+    // }
     
+    // for loop
+    // int number;
+    // printf("Please enter your number: ");
+    // scanf("%d", &number);
+    // for(int i = 0; i <= 10; i++){
+    //     int product = number * i;
+    //     printf("%d * %d = %d\n", number, i, product);
+    // }
     return 0;
 }
